@@ -235,12 +235,12 @@ li {
 .bottom-right__footer {
     border: 4px solid lightgray;
     border-left: 0;
-    border-right: 0;
+    border-right: 4px solid lightgray;
     border-bottom: 0;
     background: white;
     margin: 25px 0 0 0;
     height: 38px;
-    width: 100%;
+    width: 90.5%;
 }
 
 .bottom-right__footer {
